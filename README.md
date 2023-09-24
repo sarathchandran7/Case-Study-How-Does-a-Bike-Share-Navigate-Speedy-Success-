@@ -49,7 +49,7 @@ Records for trips starting or ending at an administrative station (repair or tes
 ### Data Validation ###
  R in R Studio was mainly used to clean and manipulate the data.
  Data for each month was present in seperate csv files, so the multiple csv files had to be combines into a single file.
- All the data cleaning and manipulating process is saved as data_cleaning.R with comments. The libraries we used are the following:
+ All the data cleaning and manipulating process is saved as [cleaning_process.R]() with comments. The libraries we used are the following:
  ```
 library(tidyverse)
 library(readr)
