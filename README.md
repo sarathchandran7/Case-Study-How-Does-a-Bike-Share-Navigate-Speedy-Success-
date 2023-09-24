@@ -63,6 +63,10 @@ day_of_week: Day of a week of the ride (Mon-Sun)
 started_date_only: extracted start date from started_at without specific time (yyyy-mm-dd format)
 ride_length: Total ride length in minutes.
 
+## Data Analysis ##
+In  the Data analysis stage, I explored the data in order to gain a better understanding of its characteristics and patterns. I have created charts, graphs, and other types of visualizations to help visualize the data and identify trends. Different kind of measures and
+calulations has been done on the cleaned data which is saved as 
+
 
 
 
