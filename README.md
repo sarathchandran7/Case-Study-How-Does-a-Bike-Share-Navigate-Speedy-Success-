@@ -26,4 +26,7 @@ Three questions will guide the future marketing program:
 3. How can Cyclistic use digital media to influence casual riders to become members?
 
 ## Data Source ##
-The [dataset](https://divvy-tripdata.s3.amazonaws.com/index.html) used in this case study is actual public data [view license](https://divvybikes.com/data-license-agreement) made available by Motivate International Inc. who operates the City of Chicago’s Divvy bicycle sharing service.
+The [dataset](https://divvy-tripdata.s3.amazonaws.com/index.html) used in this case study is actual public data [view license](https://divvybikes.com/data-license-agreement) made available by Motivate International Inc. who operates the City of Chicago’s Divvy bicycle sharing service. The data contains following colomns.
+![pic](https://github.com/sarathchandran7/Case-Study-How-Does-a-Bike-Share-Navigate-Speedy-Success-/assets/43676904/ab6a5ef4-b910-4d6a-8f2a-618ad66d3598)
+
+
