@@ -65,7 +65,7 @@ ride_length: Total ride length in minutes.
 
 ## Data Analysis ##
 In  the Data analysis stage, I explored the data in order to gain a better understanding of its characteristics and patterns. I have created charts, graphs, and other types of visualizations to help visualize the data and identify trends. Different kind of measures and
-calulations has been done on the cleaned data which is saved as 
+calulations has been done on the cleaned data which is saved as [data_analysis.R](https://github.com/sarathchandran7/Case-Study-How-Does-a-Bike-Share-Navigate-Speedy-Success-/blob/main/data_analysis.R).
 
 
 
