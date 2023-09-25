@@ -100,7 +100,10 @@ In this graph between the Avg. Ride duration and Month, It is clear that:
 * Additionally, the average ride length for casual riders was found to be longer than that of annual members.
 
 ### Visualization 5 ###
+
 ![image](https://github.com/sarathchandran7/Case-Study-How-Does-a-Bike-Share-Navigate-Speedy-Success-/assets/43676904/8babeaa4-acba-4012-aaf9-84d03af356fd)
+
+
 
 The analysis of bike type usage showed that:
 * members prefer classic bikes over electric and docked bikes
