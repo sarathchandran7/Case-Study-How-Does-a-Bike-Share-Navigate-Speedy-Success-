@@ -68,6 +68,44 @@ In  the Data analysis stage, I explored the data in order to gain a better under
 calulations has been done on the cleaned data which is saved as [data_analysis.R](https://github.com/sarathchandran7/Case-Study-How-Does-a-Bike-Share-Navigate-Speedy-Success-/blob/main/data_analysis.R).
 
 ## Data Visulaizations and Summary ##
+### Visualization 1 ###
+![image](https://github.com/sarathchandran7/Case-Study-How-Does-a-Bike-Share-Navigate-
+-Success-/assets/43676904/4e69e306-4872-4425-b283-33f44a047cfa)
+This visualization shows the total number of rides per day of the week for each customer type. We can see that
+* There are more annual members during the weekdays (Mon-Fri), which could potentially be related to commuting to work/school, etc.
+* It appears that casual riders have the highest number of rides on Saturdays and Sundays, potentially indicating leisurely use of the bikes on the weekends. 
+* Saturday has the maximum number of bike-share users  followed by Sunday
+
+### Visualization 2 ###
+![image](https://github.com/sarathchandran7/Case-Study-How-Does-a-Bike-Share-Navigate-Speedy-Success-/assets/43676904/3f800e91-1ff8-4edd-88c2-75497984501b)
+Next, we can take a look at the rider distribution by month, from Jan 2021 to June 2021.Here we can see that:
+* It appears that there is a higher demand for bike usage during the summer months for both customer types, with casual riders showing a slightly less demand.
+*  annual members continue to use the service at a relatively consistent rate throughout the year.
+This further supports our analysis that annual members may rely on the bike sharing service for their regular commute, while casual riders may use it more for leisure and recreational purposes.
+
+### Visulaization 3 ###
+![image](https://github.com/sarathchandran7/Case-Study-How-Does-a-Bike-Share-Navigate-Speedy-Success-/assets/43676904/b3841387-bdc8-47c7-b9b5-a3d6cdfc2b66)
+
+In this graph between the Avg. Ride duration and Week days, It is clear that: 
+* casual riders tend to use the bike share service primarily on weekends for leisure or recreational purposes
+* while annual members use the service more consistently throughout the week, possibly for commuting to work or other daily activities.
+This information could be useful for Cyclistic in terms of understanding how to target marketing efforts and potentially adjusting pricing or membership plans to better meet the needs of these different customer groups.
+
+### Visualization 4 ###
+![image](https://github.com/sarathchandran7/Case-Study-How-Does-a-Bike-Share-Navigate-Speedy-Success-/assets/43676904/c8648f2b-1722-490e-b590-81d993a22d98)
+
+In this graph between the Avg. Ride duration and Month, It is clear that: 
+* Annual members tend to use the bikes for their regular commutes, with a steadier usage throughout the week and year.
+* Casual riders, on the other hand, tend to use the bikes more for leisure, with higher usage on weekends and in the summer months
+* Additionally, the average ride length for casual riders was found to be longer than that of annual members.
+
+### Visualization 5 ###
+![image](https://github.com/sarathchandran7/Case-Study-How-Does-a-Bike-Share-Navigate-Speedy-Success-/assets/43676904/8babeaa4-acba-4012-aaf9-84d03af356fd)
+The analysis of bike type usage showed that:
+* members prefer classic bikes over electric and docked bikes
+*  while casual riders have similar usage of electric bikes and a slightly higher preference for docked bikes.
+
+### Visualization 6 ###
 
 
 
