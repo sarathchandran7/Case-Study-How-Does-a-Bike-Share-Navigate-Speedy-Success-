@@ -110,6 +110,24 @@ The analysis of bike type usage showed that:
 *  while casual riders have similar usage of electric bikes and a slightly higher preference for docked bikes.
 
 ### Visualization 6 ###
+![image](https://github.com/sarathchandran7/Case-Study-How-Does-a-Bike-Share-Navigate-Speedy-Success-/assets/43676904/0b10df3f-fde1-42ee-ab3e-16a79bbe1c5a)
+
+This graph shows that annual members tend to use the bikes more frequently during rush hour,mainly for coming and going to work. On the other hand, casual riders show a more steady increase in usage throughout the day, with maximum around 6pm and a steady decrease thereafter. This suggests that casual riders may be using the bikes more for leisure activities. 
+
+## Summary ##
+### Key Takeaways ###
+* Ride duration of casual riders tend to be longer, averaging around 50% longer than annual members
+* Both annual members and casual riders favor classic bikes over the other two types of bikes offered.
+* Annual members use bikes usually during weekdays
+* Compared to casual rides, members have a consistent use of the service throughout the week and the year.
+* Annual members primarily use the bike-sharing service for commuting purposes, while casual riders tend to use it for leisure, particularly on weekends and in the summer months.
+
+### Recommendation ##
+* Increase marketing initiatives aimed at leisure riders, particularly in the summer and on weekends, to promote bike use and revenue.
+* To encourage yearly members to utilise the bikes more frequently during the week and year, think about providing discounts or rewards.
+* Since classic bikes are the most well-liked among annual members and casual riders, put your attention on enhancing the fleet.
+* On weekends, when usage is nearly twice as high as during the middle of the week, casual riders prefer to use Cyclistic bikes.Create a weekend membership programme that allows members to book rides at a discounted rate on weekdays while include rides on the weekends in the base price.
+
 
 
 
