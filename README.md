@@ -69,7 +69,7 @@ calulations has been done on the cleaned data which is saved as [data_analysis.R
 
 ## Data Visulaizations and Summary ##
 ### Visualization 1 ###
-![image](https://github.com/sarathchandran7/Case-Study-How-Does-a-Bike-Share-Navigate--Success-/assets/43676904/4e69e306-4872-4425-b283-33f44a047cfa)
+![image](https://github.com/sarathchandran7/Case-Study-How-Does-a-Bike-Share-Navigate-Success-/assets/43676904/4e69e306-4872-4425-b283-33f44a047cfa)
 This visualization shows the total number of rides per day of the week for each customer type. We can see that
 * There are more annual members during the weekdays (Mon-Fri), which could potentially be related to commuting to work/school, etc.
 * It appears that casual riders have the highest number of rides on Saturdays and Sundays, potentially indicating leisurely use of the bikes on the weekends. 
